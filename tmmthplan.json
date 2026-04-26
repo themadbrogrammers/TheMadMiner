@@ -1,0 +1,176 @@
+[
+  {
+    "name": "barbarian_king",
+    "icon": "barbarian_king_iconmob.png",
+    "drops": [[1195, 155]],
+    "count": 1
+  },
+  {
+    "name": "royal_champ",
+    "icon": "royal_champ_iconmob.png",
+    "drops": [[1315, 445]],
+    "count": 1
+  },
+  {
+    "name": "minion_prince",
+    "icon": "minion_prince_iconmob.png",
+    "drops": [[1111, 99]],
+    "count": 1
+  },
+  {
+    "name": "archer_queen",
+    "icon": "archer_queen_iconmob.png",
+    "drops": [[1409, 345]],
+    "count": 1
+  },
+  {
+    "name": "healer",
+    "icon": "healer_iconmob.png",
+    "drops": [[1455, 345]],
+    "count": 5
+  },
+  {
+    "name": "wizard",
+    "icon": "wizard_iconmob.png",
+    "drops": [[1218, 505]],
+    "count": 5
+  },
+  {
+    "name": "ramrider",
+    "icon": "ramrider_iconmob.png",
+    "drops": [[245, 410], [370, 175], [250, 270], [206, 298], [175, 339], [207, 375]],
+    "count": 12
+  },
+  {
+    "name": "rocketballon",
+    "icon": "rocketballon_iconmob.png",
+    "drops": [[1218, 505]],
+    "count": 2
+  },
+  {
+    "name": "firecracker",
+    "icon": "firecracker_iconmob.png",
+    "drops": [[245, 410], [370, 175], [250, 270], [206, 298], [175, 339], [207, 375]],
+    "count": 12
+  },
+  {
+    "name": "giant2",
+    "icon": "giant2_iconmob.png",
+    "drops": [[1218, 505]],
+    "count": 5
+  },
+  {
+    "name": "superwizard",
+    "icon": "superwizard_iconmob.png",
+    "drops": [[1218, 505]],
+    "count": 5
+  },
+  {
+    "name": "extra_troop",
+    "icon": "extra_troop_iconmob.png",
+    "drops": [[1205, 165]],
+    "count": 10
+  },
+  {
+    "name": "ice_golem",
+    "icon": "ice_golem_iconmob.png",
+    "drops": [[498, 85]],
+    "count": 5
+  },
+  {
+    "name": "electro_spell",
+    "icon": "electro_spell_iconmob.png",
+    "drops": [[896, 402], [845, 428], [840, 519], [857, 533], [845, 428], [879, 411], [879, 551], [897, 533], [845, 428], [917, 533], [879, 551], [840, 519], [896, 402], [879, 551]],
+    "count": 14
+  },
+  {
+    "name": "dragon",
+    "icon": "dragon_iconmob.png",
+    "drops": [[245, 410], [370, 175], [250, 270], [206, 298], [175, 339], [207, 375]],
+    "count": 15
+  },
+  {
+    "name": "barbarian",
+    "icon": "barbarian_iconmob.png",
+    "drops": [[245, 410], [370, 175]],
+    "count": 55
+  },
+  {
+    "name": "archer",
+    "icon": "archer_iconmob.png",
+    "drops": [[206, 298], [175, 339], [207, 375]],
+    "count": 35
+  },
+  {
+    "name": "minion",
+    "icon": "minion_iconmob.png",
+    "drops": [[206, 298], [175, 339], [207, 375]],
+    "count": 5
+  },
+  {
+    "name": "goblin",
+    "icon": "goblin_iconmob.png",
+    "drops": [[245, 410], [370, 175], [250, 270], [206, 298], [175, 339], [207, 375]],
+    "count": 85
+  },
+  {
+    "name": "superdragon",
+    "icon": "superdragon_iconmob.png",
+    "drops": [[245, 410], [370, 175], [250, 270], [206, 298], [175, 339]],
+    "count": 5
+  },
+  {
+    "name": "infernodragon",
+    "icon": "infernodragon_iconmob.png",
+    "drops": [[245, 410], [370, 175], [250, 270], [206, 298], [175, 339]],
+    "count": 5
+  },
+  {
+    "name": "electrodragon",
+    "icon": "electrodragon_iconmob.png",
+    "drops": [[245, 410], [370, 175], [250, 270], [206, 298], [175, 339], [207, 375]],
+    "count": 33
+  },
+  {
+    "name": "dragonrider",
+    "icon": "dragonrider_iconmob.png",
+    "drops": [[245, 410], [370, 175], [250, 270], [206, 298], [175, 339], [207, 375]],
+    "count": 8
+  },
+  {
+    "name": "babydragon",
+    "icon": "babydragon_iconmob.png",
+    "drops": [[245, 410], [370, 175], [250, 270], [206, 298], [175, 339], [207, 375]],
+    "count": 18
+  },
+  {
+    "name": "crazydragon",
+    "icon": "crazydragon_iconmob.png",
+    "drops": [[370, 175], [250, 270], [206, 298], [175, 339], [207, 375]],
+    "count": 5
+  },
+  {
+    "name": "gran_warden",
+    "icon": "gran_warden_iconmob.png",
+    "drops": [[250, 270]],
+    "count": 1
+  },
+  {
+    "name": "dragon_duke",
+    "icon": "dragon_duke_iconmob.png",
+    "drops": [[250, 270]],
+    "count": 1
+  },
+  {
+    "name": "stone_slammer",
+    "icon": "stone_slammer_iconmob.png",
+    "drops": [[498, 85]],
+    "count": 1
+  },
+  {
+    "name": "flame_thrower",
+    "icon": "flame_thrower_iconmob.png",
+    "drops": [[464, 346]],
+    "count": 1
+  }
+]

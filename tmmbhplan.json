@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Battle_Copter",
+    "icon": "battle_copter.png",
+    "drops": [[1450, 509], [1515, 350]],
+    "count": 2
+  },
+  {
+    "name": "Battle_Machine",
+    "icon": "battle_machine.png",
+    "drops": [[1450, 509], [1515, 350]],
+    "count": 2
+  },
+  {
+    "name": "Witch2",
+    "icon": "witch2.png",
+    "drops": [[1390, 548], [1450, 509], [1500, 470], [1560, 440], [1450, 509], [1330, 495], [1395, 430], [1455, 385], [1515, 350], [1395, 430]],
+    "count": 8
+  },
+  {
+    "name": "P.E.K.K.A",
+    "icon": "pekka.png",
+    "drops": [[1500, 470], [1515, 350]],
+    "count": 3
+  }
+]
